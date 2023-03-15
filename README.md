@@ -4,10 +4,10 @@
 
 - Mở powershell với quyền admin, dán vào dòng lệnh sau enter:
 
-\```sh
+```sh
 
 irm https://massgrave.dev/get | iex
 
-\```
+```
 
 - Ấn số 1 ở cửa sổ tiếp theo hiện ra là kích hoạt thành công.
